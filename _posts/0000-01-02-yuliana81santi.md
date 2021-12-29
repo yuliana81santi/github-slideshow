@@ -1,0 +1,6 @@
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+“Watch your thoughts; they become words. Watch your words; they become actions. Watch your actions; they become habits. Watch your habits; they become character. Watch your character; it becomes your destiny.”— Lao-Tze
+Use the left arrow to go back!
